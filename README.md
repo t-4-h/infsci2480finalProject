@@ -8,6 +8,6 @@ recommender-keywordBased.ipynb<br>
 ## production notebook:<br>
 FULL-RECOMMENDER.ipynb<br>
 
-### to view interactive recommender, download and run: <br>
+### to view interactive recommender, clone repo and run: <br>
 < voila FULL-RECOMMENDER.ipynb --theme=dark > <br>
 from project directory 
