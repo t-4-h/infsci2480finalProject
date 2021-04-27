@@ -2,4 +2,4 @@
 news recommender system
 
 to view interactive recommender, download and run: 
-voila FULL-RECOMMENDER.ipynb --theme=dark
+voila FULL-RECOMMENDER.ipynb --theme=dark from project directory
